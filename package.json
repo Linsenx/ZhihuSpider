@@ -1,0 +1,27 @@
+{
+  "name": "zhihuer_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightCats/ZhiHuer.git"
+  },
+  "author": "NightCats",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightCats/ZhiHuer/issues"
+  },
+  "homepage": "https://github.com/NightCats/ZhiHuer#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "tough-cookie": "^2.3.3"
+  }
+}
